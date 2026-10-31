@@ -1,13 +1,14 @@
 {
   "motoruta": {
-    "version": "0.8.5",
-    "build": 19,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.8.5/MotoRuta-0.8.5.apk",
-    "sha256": "0cf480df763f479264d6898dd81662c060791c711fb50b4cd18f432f2ccdeaaa",
-    "sizeMb": 77,
+    "version": "0.9.0",
+    "build": 20,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.9.0/MotoRuta-0.9.0.apk",
+    "sha256": "4520345fd1c438b40f680c03445f6ca1d30f9dbc1d0f9128f714a780b7eaea9d",
+    "sizeMb": 78,
     "highlights": [
-      "El aviso de versión nueva sale cada vez que abres la app, hasta que actualices.",
-      "El aviso y las novedades tienen un diseño nuevo."
+      "Mide tus recorridos con GPS: Inicio, Medir con GPS.",
+      "Mientras mide, una barra arriba te recuerda terminar en cualquier pantalla.",
+      "Los km se suman como estimado; el trip de la moto sigue mandando."
     ]
   }
 }
