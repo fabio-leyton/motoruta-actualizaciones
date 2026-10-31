@@ -1,13 +1,14 @@
 {
   "motoruta": {
-    "version": "0.8.2",
-    "build": 16,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.8.2/MotoRuta-0.8.2.apk",
-    "sha256": "d35b902aa977f5aca243a316e3e2d99bb3bf7ecbea2c5e537d1d1b5f6ae81f34",
+    "version": "0.8.3",
+    "build": 17,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.8.3/MotoRuta-0.8.3.apk",
+    "sha256": "e9ebc209fb5b7757d2fef815b17487c25c2a15d18fc250a04e4f1fa3a5417ba4",
     "sizeMb": 77,
     "highlights": [
-      "Formularios de mantenimiento más claros: ahora distinguen km y días.",
-      "Las unidades se ven siempre, aunque el campo esté vacío."
+      "Al abrir la app te avisa si hay una versión nueva.",
+      "Ves lo nuevo antes de actualizar y otra vez después de instalar.",
+      "En Ajustes puedes volver a ver las novedades."
     ]
   }
 }
