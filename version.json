@@ -1,13 +1,13 @@
 {
   "motoruta": {
-    "version": "0.8.4",
-    "build": 18,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.8.4/MotoRuta-0.8.4.apk",
-    "sha256": "821fc0819e094cd5ead765faf1bfa1ea5e33b9648fdd25765e1e26dfda2c7a10",
+    "version": "0.8.5",
+    "build": 19,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.8.5/MotoRuta-0.8.5.apk",
+    "sha256": "0cf480df763f479264d6898dd81662c060791c711fb50b4cd18f432f2ccdeaaa",
     "sizeMb": 77,
     "highlights": [
-      "Versión de prueba del aviso automático.",
-      "No trae cambios en la app."
+      "El aviso de versión nueva sale cada vez que abres la app, hasta que actualices.",
+      "El aviso y las novedades tienen un diseño nuevo."
     ]
   }
 }
