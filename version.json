@@ -1,14 +1,15 @@
 {
   "motoruta": {
-    "version": "0.9.0",
-    "build": 20,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.9.0/MotoRuta-0.9.0.apk",
-    "sha256": "4520345fd1c438b40f680c03445f6ca1d30f9dbc1d0f9128f714a780b7eaea9d",
-    "sizeMb": 78,
+    "version": "0.10.0",
+    "build": 21,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.10.0/MotoRuta-0.10.0.apk",
+    "sha256": "34089ed1db5d21ea580293808c86db8a60d55f2368e891db9d9c922d1f6dd4b3",
+    "sizeMb": 79,
     "highlights": [
-      "Mide tus recorridos con GPS: Inicio, Medir con GPS.",
-      "Mientras mide, una barra arriba te recuerda terminar en cualquier pantalla.",
-      "Los km se suman como estimado; el trip de la moto sigue mandando."
+      "Puedes proteger tus respaldos con una contraseña. Busca la opción en Ajustes, Respaldos",
+      "El respaldo automático ahora se hace a diario si registraste algo",
+      "La app te avisa si un respaldo no se pudo guardar en Descargas",
+      "Se guardan solo los 5 respaldos más recientes"
     ]
   }
 }
