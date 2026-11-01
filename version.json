@@ -1,15 +1,16 @@
 {
   "motoruta": {
-    "version": "0.10.0",
-    "build": 21,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.10.0/MotoRuta-0.10.0.apk",
-    "sha256": "34089ed1db5d21ea580293808c86db8a60d55f2368e891db9d9c922d1f6dd4b3",
+    "version": "0.12.0",
+    "build": 23,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.12.0/MotoRuta-0.12.0.apk",
+    "sha256": "1096e2d9a4310814c323b5988931bd816acb68a28183ae7a9839497dcd673861",
     "sizeMb": 79,
     "highlights": [
-      "Puedes proteger tus respaldos con una contraseña. Busca la opción en Ajustes, Respaldos",
-      "El respaldo automático ahora se hace a diario si registraste algo",
-      "La app te avisa si un respaldo no se pudo guardar en Descargas",
-      "Se guardan solo los 5 respaldos más recientes"
+      "Viajes nuevo: mira de una vez si te alcanza la gasolina y cuánto cuesta cada viaje",
+      "Cada viaje muestra su ruta con la gasolina con la que llegas a cada punto",
+      "Crear un viaje ahora es más rápido",
+      "Si tu moto muestra la gasolina por líneas, la app aprende cuánto dura cada línea. Actívalo en los datos de la moto",
+      "Los títulos de los campos ya no se montan sobre el borde"
     ]
   }
 }
