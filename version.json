@@ -1,16 +1,15 @@
 {
   "motoruta": {
-    "version": "0.12.0",
-    "build": 23,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.12.0/MotoRuta-0.12.0.apk",
-    "sha256": "1096e2d9a4310814c323b5988931bd816acb68a28183ae7a9839497dcd673861",
+    "version": "0.13.0",
+    "build": 24,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.13.0/MotoRuta-0.13.0.apk",
+    "sha256": "45a7067bc3bc9e7ec378d90377d569767e8644050dbe7f61c383fae25481bec0",
     "sizeMb": 79,
     "highlights": [
-      "Viajes nuevo: mira de una vez si te alcanza la gasolina y cuánto cuesta cada viaje",
-      "Cada viaje muestra su ruta con la gasolina con la que llegas a cada punto",
-      "Crear un viaje ahora es más rápido",
-      "Si tu moto muestra la gasolina por líneas, la app aprende cuánto dura cada línea. Actívalo en los datos de la moto",
-      "Los títulos de los campos ya no se montan sobre el borde"
+      "Si configuras las líneas de tu moto, el medidor de Inicio se divide en líneas y se anima",
+      "Al tanquear te dice cuántas líneas deberían subir",
+      "Anota las líneas de antes y después de tanquear: con 3 tanqueadas la app aprende cuánta gasolina vale una línea",
+      "Marca cuando baje una línea: con el tiempo la app sabe cuántos km dura cada una y baja el medidor sola"
     ]
   }
 }
