@@ -1,13 +1,16 @@
 {
   "motoruta": {
-    "version": "0.14.1",
-    "build": 26,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.14.1/MotoRuta-0.14.1.apk",
-    "sha256": "e0052f9e1f086811162a2269f893746c0946f589df30b82f171b4dab96c0e1d3",
+    "version": "0.14.2",
+    "build": 27,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.14.2/MotoRuta-0.14.2.apk",
+    "sha256": "18d7f45f06538fb58783b69fdb3c000544b23196ca4c4b8c7517b793464b7201",
     "sizeMb": 79,
     "highlights": [
-      "Versión para probar cómo se ven los avisos de actualización",
-      "Trae todo lo nuevo de viajes: ubicación, km por carretera, gasolina, gasto y aceite"
+      "Viajes: la app detecta dónde estás y calcula los km por carretera",
+      "Busca tu destino por municipio, barrio o dirección",
+      "El resultado del viaje ahora se ve más grande: te dice si alcanza la gasolina y cuánto vas a gastar",
+      "Nuevo: revisa si el aceite aguanta el viaje, según lo que tengas en Taller",
+      "Calculadora ahora está arriba en Gasolina, Estaciones en Informes e Importar mi cuaderno en Ajustes"
     ]
   }
 }
