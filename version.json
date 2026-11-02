@@ -1,17 +1,17 @@
 {
   "motoruta": {
-    "version": "0.15.1",
-    "build": 30,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.15.1/MotoRuta-0.15.1.apk",
-    "sha256": "ecae19cc3bf4a4c45f505bacd23b6d91fa0ceed0d61e3b6087c24f0e0aad91e8",
-    "sizeMb": 80,
+    "version": "0.16.0",
+    "build": 31,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.16.0/MotoRuta-0.16.0.apk",
+    "sha256": "c5736ea8ce8b8b3abfb9a8add2652f3e9f46f8b26d004580636657d615f42628",
+    "sizeMb": 81,
     "highlights": [
-      "Política de privacidad en Ajustes > Privacidad: qué datos usa la app y a dónde van",
-      "Antes de usar tu ubicación la primera vez, la app te explica para qué",
-      "Taller empieza por tu plan de mantenimiento",
-      "Desde Inicio registras también servicios y gastos",
-      "Inicio muestra tu rendimiento en lugar del tamaño del tanque",
-      "Ajustes más ordenados"
+      "Fotos y documentos: guarda fotos de tu moto, el SOAT o la técnico-mecánica en foto o PDF, y las facturas de servicios y gastos",
+      "Toma la foto, elígela de la galería o agrega un PDF; ábrelos y compártelos cuando los necesites",
+      "Nuevo en Taller: Mejoras, para registrar accesorios y cambios a tu moto con fotos; su costo suma en Informes",
+      "En Taller, toca un servicio del historial para ver sus facturas",
+      "Tus fotos y documentos van en los respaldos",
+      "En Viajes, la confianza explica por qué es media o alta"
     ]
   }
 }
