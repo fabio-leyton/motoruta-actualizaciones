@@ -2,7 +2,7 @@
 
 **Vigente desde:** 2 de noviembre de 2026
 
-**Versión de la app:** 0.16.0 o posterior
+**Versión de la app:** 0.16.1 o posterior
 
 MotoRuta es una app para Android que registra el consumo de gasolina, los
 recorridos, los viajes y el mantenimiento de tus motos. Esta política explica qué
@@ -44,7 +44,7 @@ casos de las secciones 3 y 4. Puedes borrarlos desde la app o desinstalándola
 | Cuándo | Qué se envía | A quién |
 |---|---|---|
 | Al planear un viaje nuevo (el punto de partida se llena solo), al tocar "mi ubicación" o al calcular la distancia de un viaje con GPS | Tu ubicación (coordenadas) para ponerle nombre al lugar | El servicio de ubicación de Android (Google) y, si no responde, OpenStreetMap (Nominatim) |
-| Al buscar una dirección, barrio o destino | El texto que escribes | El servicio de ubicación de Android (Google) y OpenStreetMap (Nominatim) |
+| Al buscar un sitio, dirección, barrio o destino | El texto que escribes; si no escribes la ciudad, se le agrega la del punto de partida o la de tu ubicación, y a OpenStreetMap se le envía además una zona aproximada de unos 30 km alrededor de ti para preferir lo cercano | El servicio de ubicación de Android (Google) y OpenStreetMap (Nominatim) |
 | Al calcular la distancia de un tramo o de un viaje | Las coordenadas de origen y destino | OSRM (router.project-osrm.org), un servicio público de rutas |
 | Al abrir Google Maps o Waze, o al buscar gasolineras | El destino o la búsqueda | La app de mapas que elijas |
 | Al abrir la app y al descargar una actualización | Solo la consulta y la descarga de la versión nueva, sin datos tuyos | GitHub |
