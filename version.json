@@ -1,17 +1,15 @@
 {
   "motoruta": {
-    "version": "0.16.0",
-    "build": 31,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.16.0/MotoRuta-0.16.0.apk",
-    "sha256": "c5736ea8ce8b8b3abfb9a8add2652f3e9f46f8b26d004580636657d615f42628",
+    "version": "0.16.1",
+    "build": 32,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.16.1/MotoRuta-0.16.1.apk",
+    "sha256": "7e5d39f5b835b50d2b3a0cbe3a267ae1761b0539f88603a5ebbdd77bf39d8335",
     "sizeMb": 81,
     "highlights": [
-      "Fotos y documentos: guarda fotos de tu moto, el SOAT o la técnico-mecánica en foto o PDF, y las facturas de servicios y gastos",
-      "Toma la foto, elígela de la galería o agrega un PDF; ábrelos y compártelos cuando los necesites",
-      "Nuevo en Taller: Mejoras, para registrar accesorios y cambios a tu moto con fotos; su costo suma en Informes",
-      "En Taller, toca un servicio del historial para ver sus facturas",
-      "Tus fotos y documentos van en los respaldos",
-      "En Viajes, la confianza explica por qué es media o alta"
+      "Busca sitios por su nombre, como centros comerciales o parques, y muestra su dirección",
+      "Entiende direcciones como \"calle 79 carrera 15\" o \"cl 79 # 15-20\" y las busca en tu ciudad",
+      "Botón \"Buscar sitio\", lupa en el campo y la tecla del teclado para buscar",
+      "Cada resultado se puede ver en el mapa antes de elegirlo"
     ]
   }
 }
