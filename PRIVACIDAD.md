@@ -2,7 +2,7 @@
 
 **Vigente desde:** 2 de noviembre de 2026
 
-**Versión de la app:** 0.15.0 o posterior
+**Versión de la app:** 0.16.0 o posterior
 
 MotoRuta es una app para Android que registra el consumo de gasolina, los
 recorridos, los viajes y el mantenimiento de tus motos. Esta política explica qué
@@ -29,6 +29,10 @@ Contacto para temas de privacidad: WhatsApp +57 311 806 8358.
   ruta recorrida** (un punto de ubicación cada 50 metros, aproximadamente).
 - **Mantenimiento y gastos:** servicios, talleres, costos, vencimientos (SOAT,
   técnico-mecánica) y observaciones.
+- **Fotos y documentos que agregues:** fotos de la moto, del SOAT, la
+  técnico-mecánica u otros documentos (en foto o PDF), facturas y fotos de
+  repuestos y mejoras. Un documento como el SOAT puede tener tu nombre, tu número
+  de documento y la placa. Las fotos se guardan reducidas.
 - **Ajustes y licencia:** preferencias de la app y el estado de tu licencia.
 
 Estos datos no se envían al responsable de la app ni a terceros, salvo en los
@@ -64,11 +68,13 @@ Fuera de eso, solo se lee una vez en los casos de la tabla.
 - **Respaldos e informes.** La app guarda copias en la carpeta Descargas de tu
   teléfono. Si compartes un respaldo, un PDF, un Excel o un CSV, quien lo reciba
   podrá ver lo que contiene. Los respaldos pueden cifrarse con contraseña desde
-  Ajustes > Respaldos.
+  Ajustes > Respaldos. Los respaldos incluyen tus fotos y documentos.
 - **Copia de seguridad de Android.** Si la tienes activa en tu teléfono, Android
   puede guardar una copia de los datos de la app en tu cuenta de Google. La clave
-  de los respaldos cifrados nunca se incluye. Puedes desactivarla en los ajustes
-  de Android.
+  de los respaldos cifrados y las fotos y documentos nunca se incluyen. Puedes
+  desactivarla en los ajustes de Android.
+- **Fotos y documentos que compartes.** Si compartes un SOAT o una factura desde la
+  app, lo recibe la app o persona que elijas.
 
 ## 5. Permisos que pide la app
 
@@ -80,6 +86,9 @@ Fuera de eso, solo se lee una vez en los casos de la tabla.
   pantalla apagada o con otra app de mapas abierta.
 - **Ignorar la optimización de batería (opcional):** solo si lo aceptas, para que
   Android no cierre la app durante un viaje.
+- **Cámara y fotos:** solo cuando eliges tomar una foto o escogerla de la galería
+  para guardarla en un registro. La app no ve tu galería: Android le entrega solo
+  las fotos que eliges.
 - **Instalar actualizaciones:** para instalar la versión nueva que descargas.
 - **Internet:** para los servicios de la sección 3.
 - **Iniciar con el teléfono:** para volver a programar los avisos de mantenimiento
@@ -87,7 +96,8 @@ Fuera de eso, solo se lee una vez en los casos de la tabla.
 
 ## 6. Seguridad y conservación
 
-Los datos quedan en el almacenamiento privado de la app. Se conservan hasta que
+Los datos, fotos y documentos quedan en el almacenamiento privado de la app,
+donde otras apps no pueden verlos. Se conservan hasta que
 los borres o desinstales la app. La app conserva las 5 copias de respaldo más
 recientes dentro de la app y otras 5 en Descargas, y borra las anteriores.
 
