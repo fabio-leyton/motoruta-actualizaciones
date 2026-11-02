@@ -1,16 +1,20 @@
 {
   "motoruta": {
-    "version": "0.14.2",
-    "build": 27,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.14.2/MotoRuta-0.14.2.apk",
-    "sha256": "18d7f45f06538fb58783b69fdb3c000544b23196ca4c4b8c7517b793464b7201",
-    "sizeMb": 79,
+    "version": "0.15.0",
+    "build": 29,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.15.0/MotoRuta-0.15.0.apk",
+    "sha256": "5f749609e14946a9a677eea24d8173dcd7ec0e0c84798deee83a346aadef4575",
+    "sizeMb": 80,
     "highlights": [
-      "Viajes: la app detecta dónde estás y calcula los km por carretera",
-      "Busca tu destino por municipio, barrio o dirección",
-      "El resultado del viaje ahora se ve más grande: te dice si alcanza la gasolina y cuánto vas a gastar",
-      "Nuevo: revisa si el aceite aguanta el viaje, según lo que tengas en Taller",
-      "Calculadora ahora está arriba en Gasolina, Estaciones en Informes e Importar mi cuaderno en Ajustes"
+      "Viaje con GPS: pon un destino y la app te dice si te alcanza la gasolina",
+      "Mientras andas, los km hasta la reserva y las líneas del medidor bajan solos",
+      "Avisos con voz y notificación cuando quedan 30, 15 y 5 km de gasolina, con botón para buscar gasolinera",
+      "Botones Tanqueé y Detener en la notificación, sin abrir la app",
+      "La app pregunta si ya bajó una línea del medidor para ajustarse a tu moto",
+      "Historial de viajes con la ruta dibujada, en Viajes",
+      "Taller: el plan muestra solo lo configurado y eliges el tipo al agregar",
+      "La licencia confirma cuando se activa",
+      "Toca la confianza para ver qué significa; con muchos tramos ahora sale alta"
     ]
   }
 }
