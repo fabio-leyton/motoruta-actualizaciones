@@ -1,6 +1,7 @@
 # Política de privacidad de MotoRuta
 
 **Vigente desde:** 2 de noviembre de 2026
+
 **Versión de la app:** 0.15.0 o posterior
 
 MotoRuta es una app para Android que registra el consumo de gasolina, los
