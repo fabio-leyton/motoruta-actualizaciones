@@ -1,20 +1,17 @@
 {
   "motoruta": {
-    "version": "0.15.0",
-    "build": 29,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.15.0/MotoRuta-0.15.0.apk",
-    "sha256": "5f749609e14946a9a677eea24d8173dcd7ec0e0c84798deee83a346aadef4575",
+    "version": "0.15.1",
+    "build": 30,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.15.1/MotoRuta-0.15.1.apk",
+    "sha256": "ecae19cc3bf4a4c45f505bacd23b6d91fa0ceed0d61e3b6087c24f0e0aad91e8",
     "sizeMb": 80,
     "highlights": [
-      "Viaje con GPS: pon un destino y la app te dice si te alcanza la gasolina",
-      "Mientras andas, los km hasta la reserva y las líneas del medidor bajan solos",
-      "Avisos con voz y notificación cuando quedan 30, 15 y 5 km de gasolina, con botón para buscar gasolinera",
-      "Botones Tanqueé y Detener en la notificación, sin abrir la app",
-      "La app pregunta si ya bajó una línea del medidor para ajustarse a tu moto",
-      "Historial de viajes con la ruta dibujada, en Viajes",
-      "Taller: el plan muestra solo lo configurado y eliges el tipo al agregar",
-      "La licencia confirma cuando se activa",
-      "Toca la confianza para ver qué significa; con muchos tramos ahora sale alta"
+      "Política de privacidad en Ajustes > Privacidad: qué datos usa la app y a dónde van",
+      "Antes de usar tu ubicación la primera vez, la app te explica para qué",
+      "Taller empieza por tu plan de mantenimiento",
+      "Desde Inicio registras también servicios y gastos",
+      "Inicio muestra tu rendimiento en lugar del tamaño del tanque",
+      "Ajustes más ordenados"
     ]
   }
 }
