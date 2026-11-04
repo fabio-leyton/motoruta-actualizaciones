@@ -1,15 +1,16 @@
 {
   "motoruta": {
-    "version": "0.16.1",
-    "build": 32,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.16.1/MotoRuta-0.16.1.apk",
-    "sha256": "7e5d39f5b835b50d2b3a0cbe3a267ae1761b0539f88603a5ebbdd77bf39d8335",
+    "version": "0.16.2",
+    "build": 33,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.16.2/MotoRuta-0.16.2.apk",
+    "sha256": "ff9f00b252924b73f3ba8d7afd32cec9488e303a850208eaff2ba29f05b7b2fe",
     "sizeMb": 81,
     "highlights": [
-      "Busca sitios por su nombre, como centros comerciales o parques, y muestra su dirección",
-      "Entiende direcciones como \"calle 79 carrera 15\" o \"cl 79 # 15-20\" y las busca en tu ciudad",
-      "Botón \"Buscar sitio\", lupa en el campo y la tecla del teclado para buscar",
-      "Cada resultado se puede ver en el mapa antes de elegirlo"
+      "El viaje con GPS sigue midiendo con la pantalla apagada y te dice cómo evitar que el teléfono cierre la app",
+      "Si falta señal, el viaje ya no se termina como si la moto estuviera quieta, y te avisa los km que no se pudieron medir",
+      "Para corregir la gasolina antes del viaje anotas el trip o las líneas, no km ni galones",
+      "En Inicio ves el rendimiento promedio, cuánto rindió tu última tanqueada, la que más y la que menos",
+      "Al importar el cuaderno puedes poner la fecha de cada tanqueada para que entre al gasto del mes"
     ]
   }
 }
