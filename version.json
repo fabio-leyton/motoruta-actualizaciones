@@ -1,16 +1,17 @@
 {
   "motoruta": {
-    "version": "0.16.2",
-    "build": 33,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.16.2/MotoRuta-0.16.2.apk",
-    "sha256": "ff9f00b252924b73f3ba8d7afd32cec9488e303a850208eaff2ba29f05b7b2fe",
+    "version": "0.17.0",
+    "build": 34,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.17.0/MotoRuta-0.17.0.apk",
+    "sha256": "17e24c01424625b013a3c927d45c2c4c1383e28bfdc7a50f09f6d506056c958e",
     "sizeMb": 81,
     "highlights": [
-      "El viaje con GPS sigue midiendo con la pantalla apagada y te dice cómo evitar que el teléfono cierre la app",
-      "Si falta señal, el viaje ya no se termina como si la moto estuviera quieta, y te avisa los km que no se pudieron medir",
-      "Para corregir la gasolina antes del viaje anotas el trip o las líneas, no km ni galones",
-      "En Inicio ves el rendimiento promedio, cuánto rindió tu última tanqueada, la que más y la que menos",
-      "Al importar el cuaderno puedes poner la fecha de cada tanqueada para que entre al gasto del mes"
+      "Dicta la tanqueada con el micrófono: \"galón a 16.300, le metí 20 mil, trip en 170, Texaco\"",
+      "La app recuerda tus gasolineras: al tanquear en una conocida, se escoge sola",
+      "Nueva pregunta \"¿Llegaste en reserva?\" y foto del recibo en cada tanqueada",
+      "El cuaderno se llena en una cuadrícula con fecha, precio, pagado y km",
+      "El viaje con GPS muestra la ruta animada de A a B, la velocidad, la gasolina gastada y todo lo que pasó en el camino",
+      "Si el GPS falla en un viaje, la app te dice por qué"
     ]
   }
 }
