@@ -1,8 +1,8 @@
 # Política de privacidad de MotoRuta
 
-**Vigente desde:** 2 de noviembre de 2026
+**Vigente desde:** 5 de noviembre de 2026
 
-**Versión de la app:** 0.16.1 o posterior
+**Versión de la app:** 0.17.0 o posterior
 
 MotoRuta es una app para Android que registra el consumo de gasolina, los
 recorridos, los viajes y el mantenimiento de tus motos. Esta política explica qué
@@ -22,11 +22,14 @@ Contacto para temas de privacidad: WhatsApp +57 311 806 8358.
 
 - **Motos:** nombre, marca, modelo, año, tanque, kilometraje, líneas del medidor y
   demás datos que escribas.
-- **Gasolina:** tanqueadas, precios, valores pagados, gasolineras, trip y
-  kilometraje.
+- **Gasolina:** tanqueadas, precios, valores pagados, gasolineras, trip,
+  kilometraje y la foto del recibo si la agregas.
+- **Ubicación de tus gasolineras:** el lugar (coordenadas) de cada gasolinera donde
+  registras una tanqueada, para escogerla sola la próxima vez que tanquees ahí.
 - **Recorridos y viajes:** kilómetros, destinos y tramos que planeas.
 - **Viajes con GPS:** fecha, hora, kilómetros, destino, avisos de gasolina y **la
-  ruta recorrida** (un punto de ubicación cada 50 metros, aproximadamente).
+  ruta recorrida** (un punto de ubicación cada 50 metros, aproximadamente), la
+  velocidad promedio y máxima, y cómo se comportó la señal del GPS.
 - **Mantenimiento y gastos:** servicios, talleres, costos, vencimientos (SOAT,
   técnico-mecánica) y observaciones.
 - **Fotos y documentos que agregues:** fotos de la moto, del SOAT, la
@@ -47,6 +50,7 @@ casos de las secciones 3 y 4. Puedes borrarlos desde la app o desinstalándola
 | Al buscar un sitio, dirección, barrio o destino | El texto que escribes; si no escribes la ciudad, se le agrega la del punto de partida o la de tu ubicación, y a OpenStreetMap se le envía además una zona aproximada de unos 30 km alrededor de ti para preferir lo cercano | El servicio de ubicación de Android (Google) y OpenStreetMap (Nominatim) |
 | Al calcular la distancia de un tramo o de un viaje | Las coordenadas de origen y destino | OSRM (router.project-osrm.org), un servicio público de rutas |
 | Al abrir Google Maps o Waze, o al buscar gasolineras | El destino o la búsqueda | La app de mapas que elijas |
+| Al dictar una tanqueada con el micrófono | Tu voz, para convertirla en texto. La app no graba ni pide el micrófono: lo hace el servicio de voz del teléfono | El servicio de dictado de Android (normalmente Google) |
 | Al abrir la app y al descargar una actualización | Solo la consulta y la descarga de la versión nueva, sin datos tuyos | GitHub |
 
 Estos servicios reciben, además, la dirección IP de tu conexión, como cualquier
@@ -54,7 +58,8 @@ servicio de internet. Cada uno tiene su propia política de privacidad. MotoRuta
 les envía tus registros, tu nombre ni el código de tu teléfono.
 
 Mientras mide un viaje o un recorrido con GPS, la ruta se guarda **solo en tu
-teléfono**. La ubicación se usa de forma continua solo mientras la medición está
+teléfono**. La ubicación de tus gasolineras tampoco sale del teléfono, salvo en
+los respaldos. La ubicación se usa de forma continua solo mientras la medición está
 activa (entre Iniciar y Terminar), y Android lo indica con una notificación fija.
 Fuera de eso, solo se lee una vez en los casos de la tabla.
 
@@ -68,7 +73,8 @@ Fuera de eso, solo se lee una vez en los casos de la tabla.
 - **Respaldos e informes.** La app guarda copias en la carpeta Descargas de tu
   teléfono. Si compartes un respaldo, un PDF, un Excel o un CSV, quien lo reciba
   podrá ver lo que contiene. Los respaldos pueden cifrarse con contraseña desde
-  Ajustes > Respaldos. Los respaldos incluyen tus fotos y documentos.
+  Ajustes > Respaldos. Los respaldos incluyen tus fotos y documentos, y la ubicación de
+  tus gasolineras.
 - **Copia de seguridad de Android.** Si la tienes activa en tu teléfono, Android
   puede guardar una copia de los datos de la app en tu cuenta de Google. La clave
   de los respaldos cifrados y las fotos y documentos nunca se incluyen. Puedes
@@ -78,8 +84,9 @@ Fuera de eso, solo se lee una vez en los casos de la tabla.
 
 ## 5. Permisos que pide la app
 
-- **Ubicación:** para medir recorridos y viajes con GPS y para detectar el punto de
-  partida de un viaje. Solo mientras usas esas funciones.
+- **Ubicación:** para medir recorridos y viajes con GPS, para detectar el punto de
+  partida de un viaje y para reconocer la gasolinera al registrar una tanqueada.
+  Solo mientras usas esas funciones.
 - **Notificaciones:** avisos de gasolina, mantenimiento, vencimientos y la
   notificación fija mientras mide el GPS.
 - **Servicio en primer plano de ubicación:** para que la medición siga con la
@@ -89,6 +96,8 @@ Fuera de eso, solo se lee una vez en los casos de la tabla.
 - **Cámara y fotos:** solo cuando eliges tomar una foto o escogerla de la galería
   para guardarla en un registro. La app no ve tu galería: Android le entrega solo
   las fotos que eliges.
+- **Micrófono:** la app no lo pide. Al dictar una tanqueada, el servicio de voz
+  del teléfono escucha y le devuelve el texto a la app.
 - **Instalar actualizaciones:** para instalar la versión nueva que descargas.
 - **Internet:** para los servicios de la sección 3.
 - **Iniciar con el teléfono:** para volver a programar los avisos de mantenimiento
