@@ -2,7 +2,7 @@
 
 **Vigente desde:** 5 de noviembre de 2026
 
-**Versión de la app:** 0.17.0 o posterior
+**Versión de la app:** 0.17.1 o posterior
 
 MotoRuta es una app para Android que registra el consumo de gasolina, los
 recorridos, los viajes y el mantenimiento de tus motos. Esta política explica qué
@@ -46,7 +46,7 @@ casos de las secciones 3 y 4. Puedes borrarlos desde la app o desinstalándola
 
 | Cuándo | Qué se envía | A quién |
 |---|---|---|
-| Al planear un viaje nuevo (el punto de partida se llena solo), al tocar "mi ubicación" o al calcular la distancia de un viaje con GPS | Tu ubicación (coordenadas) para ponerle nombre al lugar | El servicio de ubicación de Android (Google) y, si no responde, OpenStreetMap (Nominatim) |
+| Al planear un viaje nuevo (el punto de partida se llena solo), al tocar "mi ubicación", al calcular la distancia de un viaje con GPS o al registrar una tanqueada con la ubicación activa | Tu ubicación o la de la gasolinera (coordenadas) para ponerle nombre al lugar o mostrar su dirección | El servicio de ubicación de Android (Google) y, si no responde, OpenStreetMap (Nominatim) |
 | Al buscar un sitio, dirección, barrio o destino | El texto que escribes; si no escribes la ciudad, se le agrega la del punto de partida o la de tu ubicación, y a OpenStreetMap se le envía además una zona aproximada de unos 30 km alrededor de ti para preferir lo cercano | El servicio de ubicación de Android (Google) y OpenStreetMap (Nominatim) |
 | Al calcular la distancia de un tramo o de un viaje | Las coordenadas de origen y destino | OSRM (router.project-osrm.org), un servicio público de rutas |
 | Al abrir Google Maps o Waze, o al buscar gasolineras | El destino o la búsqueda | La app de mapas que elijas |
@@ -58,8 +58,9 @@ servicio de internet. Cada uno tiene su propia política de privacidad. MotoRuta
 les envía tus registros, tu nombre ni el código de tu teléfono.
 
 Mientras mide un viaje o un recorrido con GPS, la ruta se guarda **solo en tu
-teléfono**. La ubicación de tus gasolineras tampoco sale del teléfono, salvo en
-los respaldos. La ubicación se usa de forma continua solo mientras la medición está
+teléfono**. La lista de tus gasolineras con su ubicación tampoco sale del
+teléfono, salvo en los respaldos; solo se consulta la dirección del punto donde
+tanqueas, como dice la tabla, y la dirección no se guarda. La ubicación se usa de forma continua solo mientras la medición está
 activa (entre Iniciar y Terminar), y Android lo indica con una notificación fija.
 Fuera de eso, solo se lee una vez en los casos de la tabla.
 
