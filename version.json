@@ -1,17 +1,13 @@
 {
   "motoruta": {
-    "version": "0.17.0",
-    "build": 34,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.17.0/MotoRuta-0.17.0.apk",
-    "sha256": "17e24c01424625b013a3c927d45c2c4c1383e28bfdc7a50f09f6d506056c958e",
+    "version": "0.17.1",
+    "build": 35,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.17.1/MotoRuta-0.17.1.apk",
+    "sha256": "582a14491cba1ec0c0374dec70033fdcf3148bd8bbceb63a02d3dd2604a9b03e",
     "sizeMb": 81,
     "highlights": [
-      "Dicta la tanqueada con el micrófono: \"galón a 16.300, le metí 20 mil, trip en 170, Texaco\"",
-      "La app recuerda tus gasolineras: al tanquear en una conocida, se escoge sola",
-      "Nueva pregunta \"¿Llegaste en reserva?\" y foto del recibo en cada tanqueada",
-      "El cuaderno se llena en una cuadrícula con fecha, precio, pagado y km",
-      "El viaje con GPS muestra la ruta animada de A a B, la velocidad, la gasolina gastada y todo lo que pasó en el camino",
-      "Si el GPS falla en un viaje, la app te dice por qué"
+      "Al registrar una tanqueada ves la dirección de la gasolinera donde estás.",
+      "Toca la dirección para ver la gasolinera en el mapa."
     ]
   }
 }
