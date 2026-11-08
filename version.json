@@ -1,13 +1,14 @@
 {
   "motoruta": {
-    "version": "0.17.2",
-    "build": 36,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.17.2/MotoRuta-0.17.2.apk",
-    "sha256": "5eb71fceea3285acb68937ad9c7946a6bc1f36d99f7ea26112d6afd563578da2",
-    "sizeMb": 81,
+    "version": "0.17.3",
+    "build": 37,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.17.3/MotoRuta-0.17.3.apk",
+    "sha256": "4e33560a6c1659360270d5b68b72fcbc49abd898144aec26b8c46b311ffd1a84",
+    "sizeMb": 49,
     "highlights": [
-      "Las líneas del medidor que calcula la app se ven como sugerencia, no como marcadas.",
-      "Toca las líneas que viste; si te equivocas, tócalas otra vez para quitarlas."
+      "El viaje con GPS sigue midiendo con la pantalla apagada: vuelve el aviso fijo de \"Viaje con GPS\"",
+      "Vuelven los avisos de gasolina, mantenimiento y respaldos",
+      "La app pesa menos: la descarga baja de 82 a 49 MB"
     ]
   }
 }
