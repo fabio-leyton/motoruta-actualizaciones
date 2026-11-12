@@ -1,8 +1,8 @@
 # Política de privacidad de MotoRuta
 
-**Vigente desde:** 11 de noviembre de 2026
+**Vigente desde:** 12 de noviembre de 2026
 
-**Versión de la app:** 0.18.0 o posterior
+**Versión de la app:** 0.19.0 o posterior
 
 MotoRuta es una app para Android que registra el consumo de gasolina, los
 recorridos, los viajes y el mantenimiento de tus motos. Esta política explica qué
@@ -24,8 +24,10 @@ Contacto para temas de privacidad: WhatsApp +57 311 806 8358.
   demás datos que escribas.
 - **Gasolina:** tanqueadas, precios, valores pagados, gasolineras, trip,
   kilometraje.
-- **Ubicación de tus gasolineras:** el lugar (coordenadas) de cada gasolinera donde
-  registras una tanqueada, para escogerla sola la próxima vez que tanquees ahí.
+- **Ubicación de tus gasolineras y de cada tanqueada:** el lugar (coordenadas) de
+  cada gasolinera donde registras una tanqueada, para escogerla sola la próxima vez
+  que tanquees ahí, y el lugar de cada tanqueada, para mostrarte dónde fue cuando la
+  edites. La dirección no se guarda: se busca al mirarla.
 - **Recorridos y viajes:** kilómetros, destinos y tramos que planeas.
 - **Viajes con GPS:** fecha, hora, kilómetros, destino, avisos de gasolina y **la
   ruta recorrida** (un punto de ubicación cada 50 metros, aproximadamente), la
@@ -54,8 +56,8 @@ servicio de internet. Cada uno tiene su propia política de privacidad. MotoRuta
 les envía tus registros, tu nombre ni el código de tu teléfono.
 
 Mientras mide un viaje o un recorrido con GPS, la ruta se guarda **solo en tu
-teléfono**. La lista de tus gasolineras con su ubicación tampoco sale del
-teléfono, salvo en los respaldos; solo se consulta la dirección del punto donde
+teléfono**. La lista de tus gasolineras con su ubicación y el lugar de cada
+tanqueada tampoco salen del teléfono, salvo en los respaldos; solo se consulta la dirección del punto donde
 tanqueas, como dice la tabla, y la dirección no se guarda. La ubicación se usa de forma continua solo mientras la medición está
 activa (entre Iniciar y Terminar), y Android lo indica con una notificación fija.
 Fuera de eso, solo se lee una vez en los casos de la tabla.
@@ -70,7 +72,14 @@ Fuera de eso, solo se lee una vez en los casos de la tabla.
 - **Respaldos e informes.** La app guarda copias en la carpeta Descargas de tu
   teléfono. Si compartes un respaldo o un PDF, quien lo reciba
   podrá ver lo que contiene. Los respaldos pueden cifrarse con contraseña desde
-  Ajustes > Respaldos. Los respaldos incluyen la ubicación de tus gasolineras.
+  Ajustes > Respaldos. Los respaldos incluyen la ubicación de tus gasolineras y de
+  tus tanqueadas.
+- **Rutas de tus viajes.** Desde el detalle de un viaje con GPS puedes exportar la
+  ruta como archivo GPX o KML, o como imagen. Se guarda en la carpeta
+  Descargas/MotoRuta/Rutas y solo sale del teléfono si tú la compartes. Quien la
+  reciba verá por dónde fuiste, los sitios marcados del viaje y las direcciones de
+  salida y llegada si se habían conseguido. La hora de cada punto del archivo es
+  una estimación.
 - **Copia de seguridad de Android.** Si la tienes activa en tu teléfono, Android
   puede guardar una copia de los datos de la app en tu cuenta de Google. La clave
   de los respaldos cifrados nunca se incluye. Puedes
