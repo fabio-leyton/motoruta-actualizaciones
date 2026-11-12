@@ -1,14 +1,16 @@
 {
   "motoruta": {
-    "version": "0.17.3",
-    "build": 37,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.17.3/MotoRuta-0.17.3.apk",
-    "sha256": "4e33560a6c1659360270d5b68b72fcbc49abd898144aec26b8c46b311ffd1a84",
-    "sizeMb": 49,
+    "version": "0.18.0",
+    "build": 38,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.18.0/MotoRuta-0.18.0.apk",
+    "sha256": "51b869f5b44926276fc0ab8fc2390896c00f89f3ddf6cdcac4d156b2d96db9bf",
+    "sizeMb": 48,
     "highlights": [
-      "El viaje con GPS sigue midiendo con la pantalla apagada: vuelve el aviso fijo de \"Viaje con GPS\"",
-      "Vuelven los avisos de gasolina, mantenimiento y respaldos",
-      "La app pesa menos: la descarga baja de 82 a 49 MB"
+      "App más liviana: se quitaron fotos y documentos, inspecciones, el cuaderno y otras funciones que no se usaban.",
+      "Llantas ahora muestra solo la presión recomendada, sola y con acompañante.",
+      "La reserva de seguridad queda fija en 15 km.",
+      "Los informes se exportan solo en PDF.",
+      "Lo que borras se elimina de verdad. Tus datos y respaldos anteriores se conservan."
     ]
   }
 }
