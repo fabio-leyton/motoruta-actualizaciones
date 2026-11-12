@@ -1,16 +1,18 @@
 {
   "motoruta": {
-    "version": "0.18.0",
-    "build": 38,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.18.0/MotoRuta-0.18.0.apk",
-    "sha256": "51b869f5b44926276fc0ab8fc2390896c00f89f3ddf6cdcac4d156b2d96db9bf",
+    "version": "0.19.0",
+    "build": 39,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.19.0/MotoRuta-0.19.0.apk",
+    "sha256": "58a8db600bbf84af543d7d59986130d256df6e9664e7a5ceab92b75a7eb50e54",
     "sizeMb": 48,
     "highlights": [
-      "App más liviana: se quitaron fotos y documentos, inspecciones, el cuaderno y otras funciones que no se usaban.",
-      "Llantas ahora muestra solo la presión recomendada, sola y con acompañante.",
-      "La reserva de seguridad queda fija en 15 km.",
-      "Los informes se exportan solo en PDF.",
-      "Lo que borras se elimina de verdad. Tus datos y respaldos anteriores se conservan."
+      "Marcar línea: ahora puedes decir en qué km bajó la línea, aunque lo anotes después",
+      "Al tanquear en reserva, la app te sugiere cuántos km llevabas en reserva",
+      "Al editar una tanqueada ves dónde la hiciste, con su dirección",
+      "El mapa del viaje se puede acercar y la ruta se puede exportar a GPX, KML o imagen",
+      "La luz de la ruta queda encendida al terminar y hay un botón para repetirla",
+      "Informes con gráficas más fáciles de leer",
+      "El botón Bajó a es más grande"
     ]
   }
 }
