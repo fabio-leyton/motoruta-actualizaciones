@@ -1,8 +1,8 @@
 # Política de privacidad de MotoRuta
 
-**Vigente desde:** 5 de noviembre de 2026
+**Vigente desde:** 11 de noviembre de 2026
 
-**Versión de la app:** 0.17.1 o posterior
+**Versión de la app:** 0.18.0 o posterior
 
 MotoRuta es una app para Android que registra el consumo de gasolina, los
 recorridos, los viajes y el mantenimiento de tus motos. Esta política explica qué
@@ -23,7 +23,7 @@ Contacto para temas de privacidad: WhatsApp +57 311 806 8358.
 - **Motos:** nombre, marca, modelo, año, tanque, kilometraje, líneas del medidor y
   demás datos que escribas.
 - **Gasolina:** tanqueadas, precios, valores pagados, gasolineras, trip,
-  kilometraje y la foto del recibo si la agregas.
+  kilometraje.
 - **Ubicación de tus gasolineras:** el lugar (coordenadas) de cada gasolinera donde
   registras una tanqueada, para escogerla sola la próxima vez que tanquees ahí.
 - **Recorridos y viajes:** kilómetros, destinos y tramos que planeas.
@@ -32,10 +32,6 @@ Contacto para temas de privacidad: WhatsApp +57 311 806 8358.
   velocidad promedio y máxima, y cómo se comportó la señal del GPS.
 - **Mantenimiento y gastos:** servicios, talleres, costos, vencimientos (SOAT,
   técnico-mecánica) y observaciones.
-- **Fotos y documentos que agregues:** fotos de la moto, del SOAT, la
-  técnico-mecánica u otros documentos (en foto o PDF), facturas y fotos de
-  repuestos y mejoras. Un documento como el SOAT puede tener tu nombre, tu número
-  de documento y la placa. Las fotos se guardan reducidas.
 - **Ajustes y licencia:** preferencias de la app y el estado de tu licencia.
 
 Estos datos no se envían al responsable de la app ni a terceros, salvo en los
@@ -72,16 +68,13 @@ Fuera de eso, solo se lee una vez en los casos de la tabla.
   para enviarlo (por ejemplo, tu número de WhatsApp). Se usa únicamente para
   generar tu código de activación y llevar el registro de tu licencia.
 - **Respaldos e informes.** La app guarda copias en la carpeta Descargas de tu
-  teléfono. Si compartes un respaldo, un PDF, un Excel o un CSV, quien lo reciba
+  teléfono. Si compartes un respaldo o un PDF, quien lo reciba
   podrá ver lo que contiene. Los respaldos pueden cifrarse con contraseña desde
-  Ajustes > Respaldos. Los respaldos incluyen tus fotos y documentos, y la ubicación de
-  tus gasolineras.
+  Ajustes > Respaldos. Los respaldos incluyen la ubicación de tus gasolineras.
 - **Copia de seguridad de Android.** Si la tienes activa en tu teléfono, Android
   puede guardar una copia de los datos de la app en tu cuenta de Google. La clave
-  de los respaldos cifrados y las fotos y documentos nunca se incluyen. Puedes
+  de los respaldos cifrados nunca se incluye. Puedes
   desactivarla en los ajustes de Android.
-- **Fotos y documentos que compartes.** Si compartes un SOAT o una factura desde la
-  app, lo recibe la app o persona que elijas.
 
 ## 5. Permisos que pide la app
 
@@ -94,9 +87,6 @@ Fuera de eso, solo se lee una vez en los casos de la tabla.
   pantalla apagada o con otra app de mapas abierta.
 - **Ignorar la optimización de batería (opcional):** solo si lo aceptas, para que
   Android no cierre la app durante un viaje.
-- **Cámara y fotos:** solo cuando eliges tomar una foto o escogerla de la galería
-  para guardarla en un registro. La app no ve tu galería: Android le entrega solo
-  las fotos que eliges.
 - **Micrófono:** la app no lo pide. Al dictar una tanqueada, el servicio de voz
   del teléfono escucha y le devuelve el texto a la app.
 - **Instalar actualizaciones:** para instalar la versión nueva que descargas.
@@ -106,9 +96,11 @@ Fuera de eso, solo se lee una vez en los casos de la tabla.
 
 ## 6. Seguridad y conservación
 
-Los datos, fotos y documentos quedan en el almacenamiento privado de la app,
+Los datos quedan en el almacenamiento privado de la app,
 donde otras apps no pueden verlos. Se conservan hasta que
-los borres o desinstales la app. La app conserva las 5 copias de respaldo más
+los borres o desinstales la app. Lo que borras en la app se elimina de verdad,
+no se guarda una copia oculta. MotoRuta ya no guarda fotos ni documentos; las que
+guardaron versiones anteriores se borran al abrir la versión nueva. La app conserva las 5 copias de respaldo más
 recientes dentro de la app y otras 5 en Descargas, y borra las anteriores.
 
 El registro de licencias del responsable (código del teléfono y fechas de la
