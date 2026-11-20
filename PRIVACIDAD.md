@@ -1,8 +1,8 @@
 # Política de privacidad de MotoRuta
 
-**Vigente desde:** 12 de noviembre de 2026
+**Vigente desde:** 20 de noviembre de 2026
 
-**Versión de la app:** 0.19.0 o posterior
+**Versión de la app:** 0.20.0 o posterior
 
 MotoRuta es una app para Android que registra el consumo de gasolina, los
 recorridos, los viajes y el mantenimiento de tus motos. Esta política explica qué
@@ -32,9 +32,15 @@ Contacto para temas de privacidad: WhatsApp +57 311 806 8358.
 - **Viajes con GPS:** fecha, hora, kilómetros, destino, avisos de gasolina y **la
   ruta recorrida** (un punto de ubicación cada 50 metros, aproximadamente), la
   velocidad promedio y máxima, y cómo se comportó la señal del GPS.
+- **Caminatas con GPS:** fecha, hora, distancia, tiempo, **la ruta recorrida** (un
+  punto de ubicación cada 10 metros, aproximadamente), ritmo, velocidad, subida
+  aproximada, nombre si le pones uno y cómo se comportó la señal del GPS. No
+  pertenecen a ninguna moto.
 - **Mantenimiento y gastos:** servicios, talleres, costos, vencimientos (SOAT,
   técnico-mecánica) y observaciones.
-- **Ajustes y licencia:** preferencias de la app y el estado de tu licencia.
+- **Ajustes y licencia:** preferencias de la app y el estado de tu licencia. Si
+  usas las caminatas, también el largo de tu paso y, solo si lo escribes, **tu
+  peso**, que se usan para contar pasos y calorías aproximados.
 
 Estos datos no se envían al responsable de la app ni a terceros, salvo en los
 casos de las secciones 3 y 4. Puedes borrarlos desde la app o desinstalándola
@@ -55,8 +61,8 @@ Estos servicios reciben, además, la dirección IP de tu conexión, como cualqui
 servicio de internet. Cada uno tiene su propia política de privacidad. MotoRuta no
 les envía tus registros, tu nombre ni el código de tu teléfono.
 
-Mientras mide un viaje o un recorrido con GPS, la ruta se guarda **solo en tu
-teléfono**. La lista de tus gasolineras con su ubicación y el lugar de cada
+Mientras mide un viaje, un recorrido o una caminata con GPS, la ruta se guarda
+**solo en tu teléfono**. La lista de tus gasolineras con su ubicación y el lugar de cada
 tanqueada tampoco salen del teléfono, salvo en los respaldos; solo se consulta la dirección del punto donde
 tanqueas, como dice la tabla, y la dirección no se guarda. La ubicación se usa de forma continua solo mientras la medición está
 activa (entre Iniciar y Terminar), y Android lo indica con una notificación fija.
@@ -73,12 +79,15 @@ Fuera de eso, solo se lee una vez en los casos de la tabla.
   teléfono. Si compartes un respaldo o un PDF, quien lo reciba
   podrá ver lo que contiene. Los respaldos pueden cifrarse con contraseña desde
   Ajustes > Respaldos. Los respaldos incluyen la ubicación de tus gasolineras y de
-  tus tanqueadas.
-- **Rutas de tus viajes.** Desde el detalle de un viaje con GPS puedes exportar la
-  ruta como archivo GPX o KML, o como imagen. Se guarda en la carpeta
+  tus tanqueadas, las rutas de tus viajes y caminatas y, si lo escribiste, tu
+  peso.
+- **Rutas de tus viajes y caminatas.** Desde el detalle de un viaje con GPS puedes
+  exportar la ruta como archivo GPX o KML, o como imagen; desde el de una
+  caminata, como GPX o KML. Se guarda en la carpeta
   Descargas/MotoRuta/Rutas y solo sale del teléfono si tú la compartes. Quien la
   reciba verá por dónde fuiste, los sitios marcados del viaje y las direcciones de
-  salida y llegada si se habían conseguido. La hora de cada punto del archivo es
+  salida y llegada si se habían conseguido (una caminata no lleva direcciones ni
+  tu peso). La hora de cada punto del archivo es
   una estimación.
 - **Copia de seguridad de Android.** Si la tienes activa en tu teléfono, Android
   puede guardar una copia de los datos de la app en tu cuenta de Google. La clave
@@ -87,7 +96,7 @@ Fuera de eso, solo se lee una vez en los casos de la tabla.
 
 ## 5. Permisos que pide la app
 
-- **Ubicación:** para medir recorridos y viajes con GPS, para detectar el punto de
+- **Ubicación:** para medir recorridos, viajes y caminatas con GPS, para detectar el punto de
   partida de un viaje y para reconocer la gasolinera al registrar una tanqueada.
   Solo mientras usas esas funciones.
 - **Notificaciones:** avisos de gasolina, mantenimiento, vencimientos y la
