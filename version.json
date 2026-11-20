@@ -1,14 +1,16 @@
 {
   "motoruta": {
-    "version": "0.19.1",
-    "build": 40,
-    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.19.1/MotoRuta-0.19.1.apk",
-    "sha256": "172b49e96486a0a1921ef7deb632b0f8203bef574c78b5cdde2aac2bcb4c0244",
+    "version": "0.20.0",
+    "build": 41,
+    "apk": "https://github.com/fabio-leyton/motoruta-actualizaciones/releases/download/v0.20.0/MotoRuta-0.20.0.apk",
+    "sha256": "ba7cdb3d636a793172f9de539f8f039374a4f64198516ddf9dc25593f422accc",
     "sizeMb": 48,
     "highlights": [
-      "La ruta del viaje ahora pinta el verde más fuerte en lo más rápido que hiciste, y el rojo solo en lo más lento.",
-      "La leyenda dice cuál fue tu velocidad más rápida y qué significan los colores.",
-      "Si fuiste a una velocidad casi igual todo el viaje, la leyenda muestra entre qué velocidades anduviste."
+      "Nuevo: Caminata. Mide por dónde caminas, con la distancia, el tiempo, el ritmo y la ruta dibujada. No toca los datos de tu moto.",
+      "Viajes ahora tiene dos pestañas: En moto y A pie.",
+      "Puedes exportar la ruta de una caminata para verla en Google Earth, Strava y otras apps.",
+      "En Ajustes > Caminata puedes poner el largo de tu paso y tu peso para ver los pasos y las calorías aproximados.",
+      "Las distancias de menos de 1 km ahora se ven en metros."
     ]
   }
 }
